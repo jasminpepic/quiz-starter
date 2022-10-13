@@ -5,7 +5,7 @@ Create a quiz app, that has levels in it.
 
 ## Quiz rules
 
-1. You should select 15 questions out of 100 given in the array that is loaded.
+1. Order of the 15 questions provided should always be different.
 2. Every question has 4 possible answers out of which only one is correct.
 3. User is prompted with question and on the screen 4 possible questions are displayed.
 4. Once user has selected an answer a modal will be shown to ask user weather he is sure about his answer (Yes and No are his options)
